@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "username": "IUsedToLoveUrMom",
+      "discordTag": "Kekw187#7359",
+      "userWallChecks": {
+        "wallChecks": 1,
+        "bufferChecks": 1,
+        "lastWallChecked": 1653344460288,
+        "lastBufferChecked": 1653344460288
+      },
+      "deposits": 0,
+      "withdraws": 0,
+      "balance": 0
+    }
+  ],
+  "wallChecks": {
+    "lastWallChecked": 1653343807009,
+    "wallMinuteUnchecked": ""
+  },
+  "bufferChecks": {
+    "lastBufferChecked": 1653343807009,
+    "bufferMinuteUnchecked": ""
+  },
+  "prevFtop": [],
+  "channels": {
+    "weewoo": "",
+    "wallchecks": "",
+    "bufferchecks": "",
+    "serverchat": "978416793255280651",
+    "ftop": "",
+    "flist": "",
+    "verify": "973310408347758602",
+    "bank": ""
+  },
+  "times": {
+    "auto_ftop": 30,
+    "auto_flist": 10,
+    "auto_wallcheck": 3,
+    "auto_buffercheck": 6,
+    "auto_joincommand": 1,
+    "latency": 300
+  },
+  "commands": {
+    "joinCommand": "/server skyblock"
+  },
+  "trackMoney": false,
+  "shield": true,
+  "totalUsers": 1,
+  "temporaryUser": []
+}
